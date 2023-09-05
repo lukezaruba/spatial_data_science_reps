@@ -25,15 +25,11 @@ These exercies are specifically intended to provide fluency in common programmin
 |         Working with APIs          |    Week 3    |
 | Working with Geospatial Primitives |    Week 4    |
 |           Wrangling Data           |    Week 6    |
-|     Map Algrebra from Scratch      |    Week 7    |
-|    MCDA & Sensitivity Analysis     |    Week 8    |
+|   Map Algrebra from Scratch **(?)**    |    Week 7    |
+|   MCDA & Sensitivity Analysis **(?)**  |    Week 8    |
 |   Geocoding & Assessing Accuracy   |   Week 10    |
-|          Network Analysis          |   Week 11    |
+|         Network Analysis **(?)**        |   Week 11    |
 
-#### CHALLENGE PROBLEMS:
-
-- IDW from Scratch
-- Cellular Automata
 
 #### CHEAT SHEETS:
 
