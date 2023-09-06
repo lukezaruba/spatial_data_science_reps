@@ -38,5 +38,5 @@ One or both of these tools should be installed, then you can clone the repo down
 With the command line tool, this would look like:
 
 ```bash
-git clone https://github.com/lukezaruba/spatial_data_science_reps
+git clone https://github.com/lukezaruba/spatial_data_science_reps.git
 ```
