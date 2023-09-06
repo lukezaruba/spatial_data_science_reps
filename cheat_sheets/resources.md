@@ -26,7 +26,7 @@ https://it.umn.edu/services-technologies/how-tos/hstahc-vpn-remote-desktop-setup
 
 ## IDEs
 
-An Integrated Devlopment Environment (IDE) is a place that you can write code, similarly to any text editor. The difference between IDEs and text editors (like Notepad or Sublime Text) is that IDEs have advanced support for actually writing code. They are specifically designed to make developers as productive as possible.
+An Integrated Development Environment (IDE) is a place that you can write code, similarly to any text editor. The difference between IDEs and text editors (like Notepad or Sublime Text) is that IDEs have advanced support for actually writing code. They are specifically designed to make developers as productive as possible.
 
 If you choose to use an IDE, which is completely optional, Visual Studio Code is often a good choice that is relatively easy to get set up.
 
