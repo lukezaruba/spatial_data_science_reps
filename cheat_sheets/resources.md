@@ -20,9 +20,9 @@ For Windows users, you can also install ArcGIS Pro directly on your machine. Ins
 
 https://rc.umn.edu/uspatial/software
 
-For Mac users and others who simply do not want to install ArcGIS Pro locally on their machines, you can login to a University machine via Remote Desktop and VPN.
+For Mac users and others who simply do not want to install ArcGIS Pro locally on their machines, you can login to a University machine via AppsToGo. If you prefer to use this option, reach out and we can help you with this if need be.
 
-https://it.umn.edu/services-technologies/how-tos/hstahc-vpn-remote-desktop-setup
+https://it.umn.edu/services-technologies/how-tos/appstogo-log-in-access-apps
 
 ## IDEs
 
