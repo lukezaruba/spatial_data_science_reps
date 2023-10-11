@@ -1,9 +1,5 @@
 .DS_Store
+.ipynb_checkpoints
 
 toy_problems/
-
-# Keeping separate to release weekly
-api-solution.ipynb
-primitives-solution.ipynb
-wrangling-solution.ipynb
-geocoding-solution.ipynb
+data/
