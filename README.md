@@ -16,16 +16,7 @@ These exercies are specifically intended to provide fluency in common programmin
 | :--------------------------------: | :----------: |
 |         Working with APIs          |    Week 3    |
 | Working with Geospatial Primitives |    Week 4    |
-|           Wrangling Data           |    Week 6    |
 |          More to come...           |     ...      |
-
-### Cheat Sheets
-
-- GIS Resources at the University of Minnesota
-- Working on the Command Line & Using Git
-- Creating Sample Spatial Datasets
-
-More to come...
 
 ---
 
